@@ -1,4 +1,4 @@
 # practice
 Courses Completed:
-Codecademy - Ruby
-Codecademy - JavaScript
+Codecademy - Ruby  
+Codecademy - JavaScript  
