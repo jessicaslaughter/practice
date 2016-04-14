@@ -1,2 +1,4 @@
 # practice
-Problems and examples for practice.
+## Courses Completed:  
+Codecademy - Ruby  
+Codecademy - JavaScript  
